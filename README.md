@@ -8,8 +8,9 @@ Github projects:
 
 Links:
 - Andrew Ng's [twitter](https://twitter.com/AndrewYNg) & [website](http://www.andrewng.org/)
-- [Sebastian Ruder's blog](http://ruder.io/)
 - [Master machine learning by using it on real life applications](http://machinelearningmastery.com/)
+- [Kaggle](https://www.kaggle.com/)
+- [Sebastian Ruder's blog](http://ruder.io/)
 
 Youtube:
 - [Lecture 01 - The Learning Problem](https://youtu.be/mbyG85GZ0PI)
