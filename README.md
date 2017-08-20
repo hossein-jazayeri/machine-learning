@@ -10,7 +10,7 @@ Github projects & tools:
 - [SfMLearner](https://github.com/tinghuiz/SfMLearner)
 - [Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial](https://github.com/amaas/stanford_dl_ex)
 - [An open-source software library for Machine Intelligence](https://www.tensorflow.org/)
-- [A Flexible and Efficient Library for Deep Learning] (http://mxnet.io/)
+- [A Flexible and Efficient Library for Deep Learning](http://mxnet.io/)
 
 Other links:
 - Andrew Ng's [twitter](https://twitter.com/AndrewYNg) & [website](http://www.andrewng.org/)
