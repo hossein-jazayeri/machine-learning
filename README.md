@@ -1,21 +1,23 @@
 # machine-learning
 
-Here are some ML examples implemented by either [python](https://www.python.org/) 
+Here are some ML examples implemented by [python](https://www.python.org/) 
 or [octave](https://www.gnu.org/software/octave) during my learnings
 
-Github projects:
+Github projects & tools:
 - [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 - [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 - [T2T: Tensor2Tensor Transformers](https://github.com/tensorflow/tensor2tensor)
 - [SfMLearner](https://github.com/tinghuiz/SfMLearner)
 - [Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial](https://github.com/amaas/stanford_dl_ex)
-[colah's blog](http://colah.github.io/)
+- [An open-source software library for Machine Intelligence](https://www.tensorflow.org/)
+- [A Flexible and Efficient Library for Deep Learning] (http://mxnet.io/)
 
-Links:
+Other links:
 - Andrew Ng's [twitter](https://twitter.com/AndrewYNg) & [website](http://www.andrewng.org/)
 - [Master machine learning by using it on real life applications](http://machinelearningmastery.com/)
 - [Kaggle](https://www.kaggle.com/)
 - [Sebastian Ruder's blog](http://ruder.io/)
+- [colah's blog](http://colah.github.io/)
 
 Youtube:
 - [Lecture 01 - The Learning Problem](https://youtu.be/mbyG85GZ0PI)
@@ -28,6 +30,7 @@ Courses:
 - [Machine Learning: Regression by University of Washington](https://www.coursera.org/learn/ml-regression/home/welcome)
 - [Machine Learning: Classification by University of Washington](https://www.coursera.org/learn/ml-classification/home/welcome)
 - [Machine Learning: Clustering & Retrieval by University of Washington](https://www.coursera.org/learn/ml-clustering-and-retrieval/home/welcome)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 From [ML Mastery Blog](machinelearningmastery.com)
 # Standard machine learning terms
