@@ -11,6 +11,7 @@ Github projects & tools:
 - [Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial](https://github.com/amaas/stanford_dl_ex)
 - [An open-source software library for Machine Intelligence](https://www.tensorflow.org/)
 - [A Flexible and Efficient Library for Deep Learning](http://mxnet.io/)
+- [scikit learn](http://scikit-learn.org/stable/)
 
 Other links:
 - Andrew Ng's [twitter](https://twitter.com/AndrewYNg) & [website](http://www.andrewng.org/)
@@ -18,6 +19,7 @@ Other links:
 - [Kaggle](https://www.kaggle.com/)
 - [Sebastian Ruder's blog](http://ruder.io/)
 - [colah's blog](http://colah.github.io/)
+- [What are some machine learning algorithms that you should always have a strong understanding of and why?](https://www.quora.com/What-are-some-machine-learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why/answer/Rohit-Malshe?srid=nQSQ)
 
 Youtube:
 - [Lecture 01 - The Learning Problem](https://youtu.be/mbyG85GZ0PI)
