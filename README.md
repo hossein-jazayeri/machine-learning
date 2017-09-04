@@ -12,6 +12,7 @@ Github projects & tools:
 - [An open-source software library for Machine Intelligence](https://www.tensorflow.org/)
 - [A Flexible and Efficient Library for Deep Learning](http://mxnet.io/)
 - [scikit learn](http://scikit-learn.org/stable/)
+- [scikit learn videos](https://github.com/justmarkham/scikit-learn-videos)
 
 Other links:
 - Andrew Ng's [twitter](https://twitter.com/AndrewYNg) & [website](http://www.andrewng.org/)
@@ -33,6 +34,7 @@ Courses:
 - [Machine Learning: Classification by University of Washington](https://www.coursera.org/learn/ml-classification/home/welcome)
 - [Machine Learning: Clustering & Retrieval by University of Washington](https://www.coursera.org/learn/ml-clustering-and-retrieval/home/welcome)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [15 hours of expert machine learning videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 From [ML Mastery Blog](machinelearningmastery.com)
 # Standard machine learning terms
