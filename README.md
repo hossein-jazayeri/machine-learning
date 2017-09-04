@@ -36,7 +36,7 @@ Courses:
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - [15 hours of expert machine learning videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
-From [ML Mastery Blog](machinelearningmastery.com)
+From [ML Mastery Blog](machinelearningmastery.com):
 # Standard machine learning terms
 There are key concepts in machine learning that lay the foundation for understanding the field.
 
@@ -61,5 +61,4 @@ There are two big issues when it comes to the model and that is the bias (the as
 and the variance (how sensitive it is to data). You may have heard of the bias-variance trade-off that seeks a balance 
 between these two concerns.
  
-Learn more about the standard machine learning terms in the post:
-- [Data, Learning and Modeling](http://machinelearningmastery.com/data-learning-and-modeling/)
+Learn more about the standard machine learning terms in [this post](http://machinelearningmastery.com/data-learning-and-modeling/)
