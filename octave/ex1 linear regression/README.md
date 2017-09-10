@@ -1,3 +1,4 @@
+```octave
 %% Machine Learning Exercise 1: Linear Regression
 % x refers to the population size in 10,000s
 % y refers to the profit in $10,000s
@@ -85,3 +86,6 @@ contour(theta0_vals, theta1_vals, J_vals, logspace(-2, 3, 20))
 xlabel('\theta_0'); ylabel('\theta_1');
 hold on;
 plot(theta(1), theta(2), 'rx', 'MarkerSize', 10, 'LineWidth', 2);
+
+...
+```
